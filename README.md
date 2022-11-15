@@ -1,21 +1,18 @@
 <h2 align="center">### Hi there 👋, I'm Raoul KUATE. </h2>
-<h3 align="center">  A passionnate Fullstack web developer with a strong willing to become a highly skilled DevOp engineer </h3>
+<h3 align="center">  A passionnate Fullstack web developer with a strong willing to become a highly skilled DevOps engineer. </h3>
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on <a href="">Opensource Project</a>
+- 🔭 I’m currently working on <a href="https://github.com/ALCOpenSource/conversational-app-team3">Opensource Project</a>
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">, NodeJS, AWS, Google 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on opensource project
+- 🤔 I’m looking for help with finding more ways to up skill and land my next job
+- 💬 Ask me about <b>React</b> | <b>Redux</b> | <b>NodeJs</b> | <b>DevOps</b>
 - 📫 How to reach me: rkuate1050@gmail.com
 - 😄 Pronouns: Hi/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Continuously improve on the best development practices. Glad to learn new things every day.
 
 ### Technilogies and Tools
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Material%20UI-blue">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
