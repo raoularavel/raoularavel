@@ -1,4 +1,4 @@
-<h2 align="center"><b> there 👋, I'm Raoul KUATE </b></h2>
+<h2 align="center"><b> Hi there 👋, I'm Raoul KUATE </b></h2>
 <h3 align="center">  A passionnate Fullstack web developer with a strong willing to become a highly skilled DevOps engineer. </h3>
 
 
