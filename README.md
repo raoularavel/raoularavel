@@ -1,5 +1,5 @@
 <h2 align="center"><b> Hi there 👋, I'm Raoul KUATE </b></h2>
-<h3 align="center">  A passionnate Fullstack web developer with a strong willing to become a highly skilled DevOps engineer. </h3>
+<h3 align="center">A passionnate Fullstack web developer</h3>
 
 
 - 🔭 I’m currently working on <a href="https://github.com/ALCOpenSource/conversational-app-team3">Opensource Project</a> as fullstack <b>React</b> | <b>Typescript</b> | <b>NodeJs</b> | <b>AWS</b> Cloud Developer. 
