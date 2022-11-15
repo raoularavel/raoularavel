@@ -1,5 +1,5 @@
-<p style="text-align:center">### Hi there 👋, I'm Raoul KUATE. </p>
-<p style="text-align:center">  A Fullstack web developer with a strong willing to become a highly skilled DevOp engineer </p>
+<p align="center">### Hi there 👋, I'm Raoul KUATE. </p>
+<p align="center">  A passionnate Fullstack web developer with a strong willing to become a highly skilled DevOp engineer </p>
 
 
 Here are some ideas to get you started:
