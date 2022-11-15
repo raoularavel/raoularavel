@@ -1,14 +1,14 @@
-### Hi there 👋
+<p style="text-align:center">### Hi there 👋, I'm Raoul KUATE. </p>
+<p style="text-align:center">  A Fullstack web developer with a strong willing to become a highly skilled DevOp engineer </p>
 
-**raoularavel/raoularavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Opensource Project
+- 🔭 I’m currently working on <a href="">Opensource Project</a>
 - 🌱 I’m currently learning AWS  and Google 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: rkuate1050@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Hi/His
 - ⚡ Fun fact: ...
