@@ -2,7 +2,7 @@
 <h3 align="center">  A passionnate Fullstack web developer with a strong willing to become a highly skilled DevOps engineer. </h3>
 
 
-- 🔭 I’m currently working on <a href="https://github.com/ALCOpenSource/conversational-app-team3">Opensource Project</a>
+- 🔭 I’m currently working on <a href="https://github.com/ALCOpenSource/conversational-app-team3">Opensource Project</a> as fullstack <b>React</b> | <b>Typescript</b> | <b>NodeJs</b> | <b>AWS</b> Cloud Developer. 
 - 🌱 I’m currently learning <b>DevOps</b> with <b>AWS</b> and <b>Google</b>
 - 👯 I’m looking to collaborate on Opensource project.
 - 🤔 I’m looking for help with finding more ways to up skill and land my next job
