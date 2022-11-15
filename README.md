@@ -3,10 +3,10 @@
 
 
 - 🔭 I’m currently working on <a href="https://github.com/ALCOpenSource/conversational-app-team3">Opensource Project</a>
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">, NodeJS, AWS, Google 
-- 👯 I’m looking to collaborate on opensource project
+- 🌱 I’m currently learning <b>DevOps</b> with <b>AWS</b> and <b>Google</b>
+- 👯 I’m looking to collaborate on Opensource project.
 - 🤔 I’m looking for help with finding more ways to up skill and land my next job
-- 💬 Ask me about <b>React</b> | <b>Redux</b> | <b>NodeJs</b> | <b>DevOps</b>
+- 💬 Ask me about <b>React</b> | <b>Redux</b> | <b>NodeJs</b> | <b>DevOps</b>  | <b>CI/CD</b> 
 - 📫 How to reach me: rkuate1050@gmail.com
 - 😄 Pronouns: Hi/His
 - ⚡ Fun fact: Continuously improve on the best development practices. Glad to learn new things every day.
