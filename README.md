@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with finding more ways to up skill and land my next job
 - 💬 Ask me about <b>React</b> | <b>Redux</b> | <b>NodeJs</b> | <b>DevOps</b>  | <b>CI/CD</b> 
 - 📫 How to reach me: rkuate1050@gmail.com
-- 😄 Pronouns: Hi/His
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: Continuously improve on the best development practices. Glad to learn new things every day.
 
 ### Technologies and Tools
